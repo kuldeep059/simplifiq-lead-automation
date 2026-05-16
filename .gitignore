@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+.venv/
+__pycache__/
+
+# Ignore runtime output data
+Audit_Report_*.pdf
+leads_tracker.csv
+
+# Ignore local environment variables if you ever save them in a file
+.env
