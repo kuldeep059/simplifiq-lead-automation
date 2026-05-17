@@ -51,7 +51,8 @@ $env:EMAIL_PASSWORD="your_16_character_gmail_app_password"
 
 
 
-If want demo link follow me here 
+ demo link : -https://drive.google.com/file/d/1zjNU77TaQ2xj5dvdIZNHuz1aTK4onClz/view?usp=sharing
+
 
 ```powershell
 uvicorn main:app --reload
